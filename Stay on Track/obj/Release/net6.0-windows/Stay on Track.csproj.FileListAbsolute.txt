@@ -1,0 +1,34 @@
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.exe
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.deps.json
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.runtimeconfig.json
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.dll
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.pdb
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.csproj.AssemblyReference.cache
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay_on_Track.Form1.resources
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.csproj.GenerateResource.cache
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.AssemblyInfoInputs.cache
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.AssemblyInfo.cs
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.csproj.CoreCompileInputs.cache
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.dll
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\refint\Stay on Track.dll
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.pdb
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.genruntimeconfig.cache
+C:\Users\Aly\source\repos\Stay on Track\Stay on Track\obj\Release\net6.0-windows\ref\Stay on Track.dll
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.exe
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.deps.json
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.runtimeconfig.json
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.dll
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\bin\Release\net6.0-windows\Stay on Track.pdb
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.csproj.AssemblyReference.cache
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay_on_Track.Form1.resources
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.csproj.GenerateResource.cache
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.AssemblyInfoInputs.cache
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.AssemblyInfo.cs
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.csproj.CoreCompileInputs.cache
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.dll
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\refint\Stay on Track.dll
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.pdb
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\Stay on Track.genruntimeconfig.cache
+D:\Workstation\My Desktop Projects\Stay on Track\Stay on Track\obj\Release\net6.0-windows\ref\Stay on Track.dll
